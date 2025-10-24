@@ -1,1 +1,2 @@
-# bobadrops
+# JKicks
+JKicks is all about finding out if your shoes are real or fake. We compare the two shoes, test the bottoms and look at the soles. Then we let you know what we found out and see what you would want to do.
